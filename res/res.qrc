@@ -1,0 +1,11 @@
+<RCC>
+    <qresource prefix="/">
+        <file>death.wav</file>
+        <file>icons.png</file>
+        <file>icons2.png</file>
+        <file>monsterhurt.wav</file>
+        <file>pickup.wav</file>
+        <file>playerhurt.wav</file>
+        <file>test.wav</file>
+    </qresource>
+</RCC>
